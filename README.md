@@ -2,7 +2,7 @@
 An attempt to retrieve and organize all information regarding the use of AMD hardware for stable diffusion.
 
 ## Menu
-### [Linux](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/HSA_GFX_VERSION.MD
+### [Linux](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/HSA_GFX_VERSION.MD)
 ### Windows: still not usable
 
 ## Why?
