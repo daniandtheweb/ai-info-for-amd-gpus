@@ -17,7 +17,7 @@ Graphics/Compute: GFX9 (gfx90c)
 4700u confirmed, usable with 4 GB of reserved VRAM and at least GB of RAM configured inside the BIOS, the RAM recommendation is to not make the pc go unresponsive. No launch arguments required.
 
 
-### Valve Steam Deck APU (Navi - RDNA 2.0)
+### Valve Steam Deck's APU (Navi - RDNA 2.0)
 #### HSA_OVERRIDE_GFX_VERSION=10.3.0
 Graphics/Compute: GFX10.3 (gfx1033)
 
