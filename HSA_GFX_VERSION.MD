@@ -1,5 +1,5 @@
 # Here is stored all the known data for Linux systems about the working versions of GFX for any AMD graphic card.
-The environment variable HSA_OVERRIDE_GFX_VERSION is the main issue when it comes to get an AMD GPU working with stable diffusion on Linux.
+The environment variable `HSA_OVERRIDE_GFX_VERSION` is the main issue when it comes to get an AMD GPU working with stable diffusion on Linux.
 Setting this variable correctly before the launch of the program allows to use even Renoir GPUs (AMD 4000 series APUs) if they have enought VRAM reserved.
 
 ## GPUs
