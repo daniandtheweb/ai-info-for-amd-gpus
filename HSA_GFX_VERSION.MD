@@ -6,4 +6,4 @@ Setting this variable correctly before the launch of the program allows to use e
 ### RX 5700XT = 10.3.0
 
 ## APUs
-### Renoir (4700u confirmed, usable with 4 GB of reserved VRAM and 12 GB of RAM configured inside the BIOS, recommended at least 12 GB of RAM or the pc will be unresponsive) = 9.0.0
+### Renoir (4700u confirmed, usable with 4 GB of reserved VRAM and at least GB of RAM configured inside the BIOS, the RAM recommendation is to not make the pc go unresponsive) = 9.0.0
