@@ -14,7 +14,7 @@ Working with `--no-half --precision full` as launch arguments.
 #### HSA_OVERRIDE_GFX_VERSION=9.0.0
 Graphics/Compute: GFX9 (gfx90c)
 
-4700u confirmed, usable with 4 GB of reserved VRAM and at least GB of RAM configured inside the BIOS, the RAM recommendation is to not make the pc go unresponsive. No launch arguments required.
+Ryzen 4700U confirmed, usable with 4 GB of reserved VRAM and at least GB of RAM configured inside the BIOS, the RAM recommendation is to not make the pc go unresponsive. No launch arguments required.
 
 
 ### Valve Steam Deck's APU (Navi - RDNA 2.0)
