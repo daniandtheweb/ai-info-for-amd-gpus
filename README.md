@@ -11,3 +11,7 @@ I've recently started contributing to the amazing [stable-diffusion-webui](https
 
 ## How?
 Every new information about a specific AMD GPU and its settings to use it on stable diffusion can be submitted as an issue or a pull request (contribution rules will be added in the future).
+
+## Credits
+Most of the information about the GPUs is taken from TechPowerUp's [website](https://www.techpowerup.com/gpu-specs/).
+Thanks to [AUTOMATIC1111](https://github.com/AUTOMATIC1111) for [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
