@@ -1,7 +1,7 @@
 # Stable Diffusion data for AMD GPUs
 An attempt to retrieve and organize all information regarding the use of AMD hardware for stable diffusion.
 
-## Menu
+## OS
 ### [Linux](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/HSA_GFX_VERSION.MD)
 ### Windows: still not usable
 
