@@ -7,14 +7,14 @@ Setting this variable correctly before the launch of the program allows to use e
 #### HSA_OVERRIDE_GFX_VERSION=10.3.0
 Graphics/Compute: GFX10.1 (gfx1010)
 
-Working with '--no-half --precision full' as launch arguments.
+Working with `--no-half --precision full` as launch arguments.
 
 ## APUs
 ### Renoir (Vega - GCN 5.1)
 #### HSA_OVERRIDE_GFX_VERSION=9.0.0
 Graphics/Compute: GFX9 (gfx90c)
 
-4700u confirmed, usable with 4 GB of reserved VRAM and at least GB of RAM configured inside the BIOS, the RAM recommendation is to not make the pc go unresponsive.
+4700u confirmed, usable with 4 GB of reserved VRAM and at least GB of RAM configured inside the BIOS, the RAM recommendation is to not make the pc go unresponsive. No launch arguments required.
 
 
 ### Valve Steam Deck APU (Navi - RDNA 2.0)
