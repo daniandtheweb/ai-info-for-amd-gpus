@@ -10,10 +10,10 @@ Graphics/Compute: GFX10.1 (gfx1010)
 Working with `--no-half --precision full` as launch arguments.
 This GPU seems to have lost its functioning state with ROCm starting with version 5.3; this means that only PyTorch versions built for ROCm 5.2 are functional for now.
 
-####PyTorch 1.13.1 ROCm 5.2 (latest official working version) - Python 3.10.6
+#### PyTorch 1.13.1 ROCm 5.2 (latest official working version) - Python 3.10.6
 `pip install torch==1.13.1+rocm5.2 torchvision==0.14.1+rocm5.2 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/rocm5.2`
 
-####PyTorch 2.0.0 Nightly ROCm 5.2 (latest nightly working version) - Python 3.10.6
+#### PyTorch 2.0.0 Nightly ROCm 5.2 (latest nightly working version) - Python 3.10.6
 Download and manually install the 3 files stored here: [AMD repository](https://repo.radeon.com/rocm/manylinux/.private-9bd8754a636553e1d1ce3e107bf18c00/20231018/).
 
 ## APUs
