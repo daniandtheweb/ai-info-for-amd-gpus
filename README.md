@@ -17,6 +17,3 @@ Every new information about a specific AMD GPU and its settings to use it on sta
 ### Linux
 ### Windows
 
-## Sources
-[TechPowerUp](https://www.techpowerup.com/gpu-specs/)
-
