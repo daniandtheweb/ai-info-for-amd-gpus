@@ -8,4 +8,4 @@ PyTorch DirectML works fine and it doesn't need any AMD specific setup.
 
 ## stable-diffusion.cpp
 
-It should work but I haven't tested it yet.
+It should work on Windows using a GPU supported by ROCm.
