@@ -10,10 +10,10 @@ This repository will serve as an attempt to retrieve and organize all the inform
 Every new information about a specific AMD GPU and its settings to use it on stable diffusion can be submitted as an issue or a pull request.
 
 # Stable Diffusion
-### [Linux](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/HSA_GFX_VERSION.MD)
-### Windows
+### [Linux](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/linux/stable-diffusion.md)
+### [Windows](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/windows/stable-diffusion.md)
 
 # Text Generation
-### Linux
-### Windows
+### [Linux](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/linux/text-gen.md)
+### [Windows](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/windows/text-gen.md)
 
