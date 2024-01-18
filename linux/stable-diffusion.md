@@ -12,7 +12,7 @@ By setting the variable together with the correct launch arguments some unsuppor
 
 Unfortunately this method is not definitive and is just a workaround.
 
-### [HSA_OVERRIDE_GFX_VERSION collection](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/linux/HSA_GFX_VERSION.MD).
+### [HSA_OVERRIDE_GFX_VERSION collection](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/linux/HSA_GFX_VERSION.md).
 
 ## stable-diffusion.cpp
 
