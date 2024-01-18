@@ -6,7 +6,7 @@ I haven't been able to use reliably any PyTorch based text generation program on
 
 ## GPT4ll
 
-This project uses parts of `llama.cpp` with a Vulkan backend in order to provide acceleration on any modern AMD GPU.
+This project uses parts of `llama.cpp` combined with a Vulkan backend in order to provide acceleration on any modern AMD GPU.
 
 It's the easiest way to use text generation locally.
 
