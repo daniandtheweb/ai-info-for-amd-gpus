@@ -1,18 +1,22 @@
-# Stable Diffusion data for AMD GPUs
-An attempt to retrieve and organize all information regarding the use of AMD hardware for stable diffusion.
+# Status of AI tools for AMD
+AMD has some good AI focused tools such as ROCm and HIP (a runtime that allows conversion of CUDA code to make it run on ROCm).
 
-## OS
+Unfortunately not many gpus are currently compatible with those tools and most of the supported cards are not the consumer ones. This now seems to be changing starting with RDNA3 but the problem persists on older generations.
+
+It's good to remember that there are alternative runtimes as OpenCL and Vulkan that can work flawlessly on almost any gpu (llama.cpp and its forks already implement OpenCL and there are a couple of pull requests to add Vulkan acceleration).
+
+This repository will serve as an attempt to retrieve and organize all the information available around the internet on how to run the newest AI tools on any AMD card.
+
+Every new information about a specific AMD GPU and its settings to use it on stable diffusion can be submitted as an issue or a pull request.
+
+# Stable Diffusion
 ### [Linux](https://github.com/DaniAndTheWeb/sd-data-amd-gpu/blob/main/HSA_GFX_VERSION.MD)
-### Windows: still not usable
+### Windows
 
-## Why?
-There's very little to no data around the web about the compatibility of AMD GPUs with stable diffusion and the information that I've found is scattered all over the web.
-I've recently started contributing to the amazing [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) repo to help automatizing the setup and usage process of red team's GPUs and I hope that this repo could provide useful information for all the contributors of the project.
+# Text Generation
+### Linux
+### Windows
 
-## How?
-Every new information about a specific AMD GPU and its settings to use it on stable diffusion can be submitted as an issue or a pull request (contribution rules will be added in the future).
+## Sources
+[TechPowerUp](https://www.techpowerup.com/gpu-specs/)
 
-## Credits
-Most of the information about the GPUs is taken from TechPowerUp's [website](https://www.techpowerup.com/gpu-specs/).
-
-Thanks to [AUTOMATIC1111](https://github.com/AUTOMATIC1111) for [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
