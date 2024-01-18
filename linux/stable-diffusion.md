@@ -22,6 +22,6 @@ The HIP backend allows the use of AMD GPUs and even if the project is quite youn
 
 The Debian team is working on enabling ROCm and HIP support for any modern AMD GPU and the packages that allow that are already available in Debian Unstable.
 
-With my card (RX 5700 XT - gfx1010, unsupported by ROCm) the inference works perfectly without any strange workaround.
+With my card (RX 5700 XT - gfx1010, unsupported by ROCm) the inference works perfectly using those packages without any strange workaround.
 
 My current setup to allow the usage of the card is using [Distrobox](https://distrobox.it/) with a Debian Unstable container and all the required ROCm and HIP toolkit installed, this way the inference can be run from inside the container on any distro.
