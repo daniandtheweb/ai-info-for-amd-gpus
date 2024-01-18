@@ -4,6 +4,12 @@
 
 I haven't been able to use reliably any PyTorch based text generation program on my GPU (RX 5700 XT, gfx1010).
 
+## GPT4ll
+
+This project uses parts of `llama.cpp` with a Vulkan backend in order to provide acceleration on any modern AMD GPU.
+
+It's the easiest way to use text generation locally.
+
 ## llama.cpp and projects based on it (such as koboldcpp)
 
 `llama.cpp` is an amazing project with different GPU backends to choose from:
