@@ -24,4 +24,4 @@ A Vulkan backend is work in progress and will eventually replace the OpenCL one.
 
 ### HIP
 
-It should work on windows with supported GPUs.
+It should work on Windows using a GPU supported by ROCm.
