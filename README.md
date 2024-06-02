@@ -1,3 +1,12 @@
+## Attention AMD RX 5700 and AMD RX 5700XT users!!!
+Thanks to [rocm_sdk_builder](https://github.com/lamikr/rocm_sdk_builder/) you can build your own ROCm suite complete with Pytorch.
+
+The build process is really easy and thanks to some recent patches it's possible to enable native support for some not officially supported cards (like the 5700XT).
+
+Stable Diffusion works with FP16 enabled and no workarounds are needed.
+
+llama.cpp works great with full hipBLAS support.
+
 # Status of AI tools for AMD
 AMD has some good AI focused tools such as ROCm and HIP (a runtime that allows conversion of CUDA code to make it run on ROCm).
 
